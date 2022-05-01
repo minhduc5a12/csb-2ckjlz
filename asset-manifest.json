@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "https://minhduc5a12.github.io/csb-2ckjlz/static/css/main.fd4a4973.chunk.css",
-    "main.js": "https://minhduc5a12.github.io/csb-2ckjlz/static/js/main.fa4622dc.chunk.js",
-    "main.js.map": "https://minhduc5a12.github.io/csb-2ckjlz/static/js/main.fa4622dc.chunk.js.map",
+    "main.css": "https://minhduc5a12.github.io/csb-2ckjlz/static/css/main.a9e154e9.chunk.css",
+    "main.js": "https://minhduc5a12.github.io/csb-2ckjlz/static/js/main.20f12d53.chunk.js",
+    "main.js.map": "https://minhduc5a12.github.io/csb-2ckjlz/static/js/main.20f12d53.chunk.js.map",
     "runtime-main.js": "https://minhduc5a12.github.io/csb-2ckjlz/static/js/runtime-main.4929f138.js",
     "runtime-main.js.map": "https://minhduc5a12.github.io/csb-2ckjlz/static/js/runtime-main.4929f138.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "https://minhduc5a12.github.io/csb-2ckjlz/static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.c71f384f.chunk.js": "https://minhduc5a12.github.io/csb-2ckjlz/static/js/2.c71f384f.chunk.js",
-    "static/js/2.c71f384f.chunk.js.map": "https://minhduc5a12.github.io/csb-2ckjlz/static/js/2.c71f384f.chunk.js.map",
+    "static/js/2.f4bd2969.chunk.js": "https://minhduc5a12.github.io/csb-2ckjlz/static/js/2.f4bd2969.chunk.js",
+    "static/js/2.f4bd2969.chunk.js.map": "https://minhduc5a12.github.io/csb-2ckjlz/static/js/2.f4bd2969.chunk.js.map",
     "index.html": "https://minhduc5a12.github.io/csb-2ckjlz/index.html",
     "static/css/2.7fc9bc2b.chunk.css.map": "https://minhduc5a12.github.io/csb-2ckjlz/static/css/2.7fc9bc2b.chunk.css.map",
-    "static/css/main.fd4a4973.chunk.css.map": "https://minhduc5a12.github.io/csb-2ckjlz/static/css/main.fd4a4973.chunk.css.map",
-    "static/js/2.c71f384f.chunk.js.LICENSE.txt": "https://minhduc5a12.github.io/csb-2ckjlz/static/js/2.c71f384f.chunk.js.LICENSE.txt"
+    "static/css/main.a9e154e9.chunk.css.map": "https://minhduc5a12.github.io/csb-2ckjlz/static/css/main.a9e154e9.chunk.css.map",
+    "static/js/2.f4bd2969.chunk.js.LICENSE.txt": "https://minhduc5a12.github.io/csb-2ckjlz/static/js/2.f4bd2969.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4929f138.js",
     "static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.c71f384f.chunk.js",
-    "static/css/main.fd4a4973.chunk.css",
-    "static/js/main.fa4622dc.chunk.js"
+    "static/js/2.f4bd2969.chunk.js",
+    "static/css/main.a9e154e9.chunk.css",
+    "static/js/main.20f12d53.chunk.js"
   ]
 }
